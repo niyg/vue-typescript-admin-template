@@ -1,6 +1,6 @@
 import { param2Obj } from './utils'
 
-const tokens: { [index: string]: any } = {
+const tokens: { [index:string]: object } = {
   admin: {
     token: 'admin-token'
   },
